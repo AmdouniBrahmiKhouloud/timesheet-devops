@@ -20,7 +20,8 @@ import tn.esprit.spring.services.IUserService;
 //@Scope("session") 
 // singleton c'est par défaut 
 // prototype 
-// request 
+// request
+// request 2
 public class UserRestControl {
 
 	@Autowired 
